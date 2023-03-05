@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manish57-droid&label=Profile%20views&color=0e75b6&style=flat" alt="hellyoshaqiqi17" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hellyoshaqiqie17&label=Profile%20views&color=0e75b6&style=flat" alt="hellyoshaqiqi17" /> </p>
 
 - 📫 How to reach me **hellyoshaqiqie9@gmail.com**
 
