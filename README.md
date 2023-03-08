@@ -16,4 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hellyoshaqiqie17&show_icons=true&locale=en" alt="hellyoshaqiqie17" /></p>
 
 
-![snake gif](https://github.com/hellyoshaqiqie17/hellyoshaqiqie17/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/hellyoshaqiqie17/Hellyoshaqiqie17/blob/output/github-contribution-grid-snake.gif)
